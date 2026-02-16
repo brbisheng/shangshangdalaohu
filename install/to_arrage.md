@@ -1,8 +1,17 @@
+🈯 常见命令：
+* openclaw status
+
+# SKILLS
+* https://docs.openclaw.ai/tools/clawhub
+  * npm install
+
+
+
 🕐待办：
 - search
 - skill
 - new workspace.
-
+- Memory.md是长期记忆. session_id是短期记忆.
 
 1️⃣ 记忆文件夹的现状
 在当前工作区（/root/.openclaw/workspace）里还没有 memory/ 子目录，也就没有每日日志文件。\
