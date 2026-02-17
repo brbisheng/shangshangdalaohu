@@ -3,11 +3,11 @@
 
 # SKILLS
 * https://docs.openclaw.ai/tools/clawhub
-    * npm install
+      * npm install
 * skill sources
-  * bundled/managed skill (~/.openclaw/openclaw.json)
-  * shared skills: ~/.openclaw/skills
-  * per-agent workspace: (<workspace>/skills)
+      * bundled/managed skill (~/.openclaw/openclaw.json)
+      * shared skills: ~/.openclaw/skills
+      * per-agent workspace: (<workspace>/skills)
 
 
 
