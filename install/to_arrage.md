@@ -3,11 +3,14 @@
 
 # SKILLS
 * https://docs.openclaw.ai/tools/clawhub
-     * npm install
-* skill sources
-      * bundled/managed skill (~/.openclaw/openclaw.json)
-      * shared skills: ~/.openclaw/skills
-      * per-agent workspace: (<workspace>/skills)
+    * npm install
+* skill whereaobout
+    * bundled/managed skill (~/.openclaw/openclaw.json)
+    * shared skills: ~/.openclaw/skills
+    * per-agent workspace: (<workspace>/skills)
+* admitted skills 
+    * https://github.com/VoltAgent/awesome-openclaw-skills?tab=readme-ov-file#search--research
+    * https://github.com/openclaw/skills/blob/main/skills/ericsantos/jina-reader/SKILL.md
 
 
 
