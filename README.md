@@ -1,3 +1,5 @@
+zotero mcp, one skill, one web search, one claude.md rule, 
+
 
 盘点市面上常见的金融小龙虾。<br>
 https://zhuanlan.zhihu.com/p/2015715059972718770
