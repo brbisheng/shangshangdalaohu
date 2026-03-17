@@ -1,4 +1,4 @@
-zotero mcp, one skill, one web search, one claude.md rule, 集合所有文件.
+zotero mcp obsidian juhe, one skill, one web search, one claude.md rule, 集合所有文件.
 
 
 盘点市面上常见的金融小龙虾。<br>
