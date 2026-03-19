@@ -1,3 +1,8 @@
+https://zhuanlan.zhihu.com/p/2013666736432509250
+
+desktop pet
+
+
 openclaw in:readme
 
 https://github.com/HKUDS/AI-Trader
