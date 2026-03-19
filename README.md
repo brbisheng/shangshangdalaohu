@@ -1,3 +1,10 @@
+openclaw in:readme
+
+https://github.com/HKUDS/AI-Trader
+
+https://github.com/TeamWiseFlow/wiseflow
+
+
 zotero mcp obsidian juhe, one skill, one web search, one claude.md rule, 集合所有文件.
 
 
