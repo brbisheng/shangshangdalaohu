@@ -1,3 +1,5 @@
+self improving + proactive
+
 🈯 常见命令：
 * openclaw status
 
