@@ -273,3 +273,9 @@ claude
 所以不容易混。
 
 https://chatgpt.com/share/69c15a6d-8284-800a-a10f-c26b06c86c4d
+
+# follow this page:
+https://openrouter.ai/docs/guides/coding-agents/claude-code-integration
+
+after adding things to `.bashrc`, do source `.bashrc` to let it take effect,
+now if you run claude, it should work
