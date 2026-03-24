@@ -1,3 +1,5 @@
+if scale big, can expand, if scale small can stop at reasonable size.
+
 QQ浏览器skill
 
 https://zhuanlan.zhihu.com/p/2013666736432509250
