@@ -1,4 +1,8 @@
 if scale big, can expand, if scale small can stop at reasonable size.
+不稳定有的时候好像陷入了死循环 半天没有输出 有的时候 很快跑好了 没有输出结果.json你确定一下什么问题。
+
+然后，要囊括入人的强化学习和博弈论的思维。比如如果分了好几个actor，一定要推演接下来的最可能的可能性 如何会不断找到平衡不段继续强化行为达到某个”高潮“
+
 
 QQ浏览器skill
 
