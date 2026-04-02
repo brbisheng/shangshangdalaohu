@@ -7,6 +7,7 @@
 - check ./.claude/learning.md everytime to make sure you are obeying the rules there.
 - self-improve, self-evlove, proactive.
 - always test after completing key functionality
+- 把一个点挖到极致，发展出至少一种不断进化self-improve, self-evlove, proactive的方法.
 
 
 
