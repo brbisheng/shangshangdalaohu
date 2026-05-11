@@ -1,3 +1,9 @@
+```
+podman exec -it devbox bash
+
+```
+
+
 if scale big, can expand, if scale small can stop at reasonable size.
 不稳定有的时候好像陷入了死循环 半天没有输出 有的时候 很快跑好了 没有输出结果.json你确定一下什么问题。
 
