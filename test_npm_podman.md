@@ -1,3 +1,7 @@
+podman exec -it devbox bash
+/var/lib/containers/storage/overlay/fb85fe0e9b4263af80317e7f6dfccc23e72439fcf6bea560214c1ede5cffbf75/diff/root/workspace/projects
+
+
 不是完全不能用这个容器。准确说：
 
 **你可以继续用现有 `devbox` 容器跑 Vite。不能做的是：给一个已经创建好的容器临时追加 `-p 127.0.0.1:5173:5173` 端口映射。**
